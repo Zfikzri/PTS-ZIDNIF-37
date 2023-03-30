@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">TugasPTS</string>
+    <string name="_0_0">0.0</string>
+    <string-array name="judul_game">
+        <item>GTA V</item>
+        <item>Call Of Duty</item>
+        <item>The Last Of Us</item>
+        <item>Digimon Rumble</item>
+        <item>Uncharte</item>
+        <item>Lego Batman</item>
+        <item>Naruto UNS4</item>
+        <item>PES 2023</item>
+        <item>NBA 2023</item>
+        <item>Game\nShark</item>
+    </string-array>
+    <string-array name="rating_game">
+        <item>4.5</item>
+        <item>3.0</item>
+        <item>4.7</item>
+        <item>4.1</item>
+        <item>3.4</item>
+        <item>4.5</item>
+        <item>3.5</item>
+        <item>5.0</item>
+        <item>4.7</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="genre_game">
+        <item>Open World</item>
+        <item>Story,Strategy</item>
+        <item>Story,\nAdventure</item>
+        <item>Arcade,Batle</item>
+        <item>Story,\nAdventure</item>
+        <item>Fantasy,\nAdventure</item>
+        <item>Arcade,Fantasy</item>
+        <item>Sport</item>
+        <item>Sport</item>
+        <item>Cheat</item>
+    </string-array>
+    <string-array name="desc_game">
+        <item>Grand Theft Auto V GTA 5 adalah permainan aksi-petualangan 2013 yang dikembangkan oleh Rockstar North dan diterbitkan oleh Rockstar Games. Ini adalah entri utama pertama dalam seri Grand Theft Auto sejak 2008 Grand Theft Auto IV. Berlatar di dalam negara bagian fiksi San Andreas, yang berbasis di California Selatan, kisah pemain tunggal mengikuti tiga kriminal dan upaya mereka untuk melakukan pencurian sementara di bawah tekanan dari agen pemerintah dan tokoh-tokoh kejahatan yang kuat. Desain dunia terbuka memungkinkan pemain bebas berkeliaran di pedesaan terbuka San Andreas dan kota fiksi Los Santos, yang berbasis di Los Angeles, Amerika Serikat.</item>
+        <item>Call of Duty adalah waralaba permainan video penembak orang pertama yang diterbitkan oleh Activision. Dimulai pada tahun 2003, pertama kali berfokus pada permainan yang berlatar Perang Dunia II. Seiring waktu, seri ini telah menyaksikan permainan-permainan berlatar di tengah-tengah Perang Dingin, dunia futuristik, dan luar angkasa. Permainan ini pertama kali dikembangkan oleh Infinity Ward, kemudian juga oleh Treyarch dan Sledgehammer Games. Beberapa permainan spin-off dan genggam dibuat oleh pengembang lain. Judul terbaru, Call of Duty: Black Ops Cold War, dirilis pada 13 November 2020.</item>
+        <item>The Last of Us adalah sebuah permainan video aksi-penjelajahan horor kesintasan yang dikembangkan oleh Naughty Dog dan diterbitkan oleh Sony Computer Entertainment. Permainan ini dirilis untuk PlayStation 3 pada 14 Juni 2013. Versi terbarunya, The Last of Us Remastered, dirilis untuk PlayStation 4 pada tanggal 29 Juli 2014.Dalam permainan ini, pemain mengendalikan Joel, seorang pria yang bertugas mengawal seorang gadis remaja bernama Ellie melintasi Amerika Serikat pasca-apokaliptik.</item>
+        <item>Digimon Rumble Arena 2, known as Digimon Battle Chronicle, Dejimon Batoru Kuronikuru in Japan, is a 2004 Digimon fighting video game, released by Bandai for the PlayStation 2, GameCube, and the Xbox. It is the sequel to 2001s Digimon Rumble Arena and has a similar style of gameplay as Super Smash Bros. Melee, except with a health meter. Digimon All-Star Rumble, a spiritual successor to the Rumble Arena games, was later released in 2014.</item>
+        <item>Uncharted adalah seri video game yang dikembangkan oleh Naughty Dog dan diterbitkan oleh Sony Interactive Entertainment untuk konsol PlayStation. Seri ini mengikuti cerita dari seorang pemburu harta karun bernama Nathan Nate Drake, dan seorang pemburu harta karun senior sekaligus mentor bagi Nathan yaitu Victor Sully Sullivan, dan juga ada Elena Fisher seorang wartawan cantik yang nantinya dalam seri ke empat menjadi istrinya Nathan, dan banyak rekan lain yang mereka temui dan mereka ajak saat melakukan perjalanan ke seluruh dunia untuk mengungkap berbagai misteri sejarah</item>
+        <item>Batman adalah superhero yang sangat berkharisma dengan memiliki kombinasi yang baik antara kemampuan bela diri yang kuat dan gadget yang canggih. Sedangkan serial game yang mengusung nama LEGO pun  juga dikenal di seluruh dunia, mengikuti kesuksesan seri mainannya khususnya versi Lego dari Batman.</item>
+        <item>Naruto Shippūden: Ultimate Ninja Storm 4 is the sixth instalment of the Ultimate Ninja Storm series developed by CyberConnect2 and published by Namco-Bandai games for the PlayStation 4, Xbox One, and Steam. It was released in February on the 4th in Japan, 5th in Europe and the 9th in North America. </item>
+        <item>Game olahraga bertema bola basket yang menghadirkan pemain pemain pro asli kedalam game dan bermain layaknya basket</item>
+        <item>Game olahraga bertema bola basket yang menghadirkan pemain pemain pro asli kedalam game dan bermain layaknya basket</item>
+        <item>Cheat Game Shark</item>
+    </string-array>
+    <integer-array name="poster_game">
+        <item>@drawable/ic_gtav</item>
+        <item>@drawable/ic_cod</item>
+        <item>@drawable/ic_tlou</item>
+        <item>@drawable/ic_digimon</item>
+        <item>@drawable/ic_unchrted</item>
+        <item>@drawable/ic_lego</item>
+        <item>@drawable/ic_nuns4</item>
+        <item>@drawable/ic_pes</item>
+        <item>@drawable/ic_nba</item>
+        <item>@drawable/ic_gmshrk</item>
+    </integer-array>
+</resources>
