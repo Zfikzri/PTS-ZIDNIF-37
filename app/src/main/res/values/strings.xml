@@ -50,7 +50,7 @@
         <item>Cheat Game Shark</item>
     </string-array>
     <integer-array name="poster_game">
-        <item>@drawable/yar</item>
+        <item>@drawable/cepat</item>
         <item>@drawable/ic_cod</item>
         <item>@drawable/ic_tlou</item>
         <item>@drawable/ic_digimon</item>
