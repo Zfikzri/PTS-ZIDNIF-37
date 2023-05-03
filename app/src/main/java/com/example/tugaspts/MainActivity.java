@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         binding.tvQuote.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                binding.changeQuote.setText("Play  game enough and get enough rest\nthats make you feel good and\nnot boring to play the game");
+                binding.changeQuote.setText("Enjoyy film recommendation dari saya");
             }
         });
 
